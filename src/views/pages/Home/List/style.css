@@ -1,0 +1,15 @@
+.container{
+  padding-right: 20px;
+}
+.item{
+  margin-bottom: 20px;
+}
+.item_title{
+  height: 28px;
+  line-height: 28px;
+  font-weight: bold;
+}
+.item_content{
+  margin-top: 10px;
+  color: #3f3f3f;
+}
