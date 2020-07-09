@@ -2,3 +2,7 @@ node_modules
 build
 public
 package-lock.js
+
+
+.vscode
+.gitignore

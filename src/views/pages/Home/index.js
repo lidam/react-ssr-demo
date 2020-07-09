@@ -8,10 +8,10 @@ import styles from './style.css';
 class Home extends Component {
   render() {
     return (
-           <div className={styles.container}>
+        <div className={styles.container}>
         <Helmet>
           <meta charset="utf-8"/>
-          <title>首页</title>
+          <title>首页11111</title>
           <meta name="deacription" content="练习react ssr的首页"/>
         </Helmet>
         <ListInfo staticContext={this.props.staticContext}></ListInfo>
