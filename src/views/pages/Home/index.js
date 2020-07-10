@@ -11,7 +11,7 @@ class Home extends Component {
         <div className={styles.container}>
         <Helmet>
           <meta charset="utf-8"/>
-          <title>首页111</title>
+          <title>首页</title>
           <meta name="deacription" content="练习react ssr的首页"/>
         </Helmet>
         <ListInfo staticContext={this.props.staticContext}></ListInfo>
